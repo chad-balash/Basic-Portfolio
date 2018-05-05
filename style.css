@@ -1,0 +1,41 @@
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+header {
+
+    color: white;
+    text-align: center;
+    background-color: black;
+    margin-bottom: 0px;
+    padding: 10px;
+}
+
+.mainContent {
+    margin-top: 0px;
+    display: flex;
+    background-color: rgb(221, 213, 213);
+}
+
+img {
+    border: 2px solid black;
+    float: left;
+    margin: 10px;
+}
+
+.sone {
+    
+    padding: 20px;
+    flex: 2;
+}
+
+.stwo{
+    
+    padding: 20px;
+    flex: 1;
+}
+
+a {
+    color: red;
+}
